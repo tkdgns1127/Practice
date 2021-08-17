@@ -1,0 +1,7 @@
+git add *
+
+git config --global user.name gns1127
+
+git config --global user.email gns1127@naver.com
+
+git commit -m "설명사항"
