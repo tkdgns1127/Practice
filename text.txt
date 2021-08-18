@@ -5,3 +5,5 @@ git commit -m "설명사항"
 git push : 로컬 레파지토리 -> git HUb 파일 upload
 
 git pull : github -> 로컬 레파지토리 파일 download
+
+github 파일 다운받기
