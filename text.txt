@@ -1,7 +1,7 @@
 git add *
 
-git config --global user.name gns1127
-
-git config --global user.email gns1127@naver.com
-
 git commit -m "설명사항"
+
+git push : 로컬 레파지토리 -> git HUb 파일 upload
+
+git pull : github -> 로컬 레파지토리 파일 download
